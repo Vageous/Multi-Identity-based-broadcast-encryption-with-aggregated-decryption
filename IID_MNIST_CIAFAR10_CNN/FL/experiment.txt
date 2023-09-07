@@ -1,0 +1,23 @@
+Drop user:
+
+ Type 1：每轮参与联邦学习训练的被选客户端在训练加密阶段未掉线，但在传输密文时掉线
+
+ Type 2: 每轮参与联邦学习训练的被选客户端在训练加密阶段即已经掉线，即未参与训练
+
+number of gradients per participant
+
+number of user
+
+Figure 1： Type 1 Drop user：0%，10%，20%，30% accuracy 对比图
+
+Figure 2： Type 2 Drop user: 0%, 10%, 20%, 30% accuracy 对比图
+
+Figure 3:  Type 1 Drop user：0%，10%，20%，30% total computation对比
+
+Figure 4:  Type 2 Drop user：0%，10%，20%，30% total computation对比
+
+Figure 5:  Type 1 Drop user：0%，10%，20%，30% total communication对比
+
+Figure 6:  Type 2 Drop user：0%，10%，20%，30% total communication对比
+
+Figure 7:  
